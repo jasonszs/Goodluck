@@ -2,8 +2,10 @@
 title: "report"
 author: "Jason Su"
 date: "August 9, 2018"
-output: rmarkdown::github_document
+output: github_document:
+          html_preview: false
 ---
+
 
 
 # Probability practice
